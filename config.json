@@ -1,0 +1,15 @@
+{
+  "settings": {
+    "auto_connect": true,
+
+    "path": "/",
+    "port": 80,
+
+    "token": "",
+    "access_token": ""
+  },
+  "chats": {
+    "AAA": 111,
+    "BBB": 222
+  }
+}
